@@ -1,0 +1,15 @@
+.heading{
+    width: 400px;
+    font-size:x-large;
+    letter-spacing: 8px;
+}
+body{
+    text-align: center;
+    background-color: rgb(226, 162, 77);
+}
+.div1{
+    float: left;
+}
+.div2{
+    float: right;
+}
